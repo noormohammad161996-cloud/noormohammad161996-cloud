@@ -53,16 +53,4 @@ I enjoy integrating automation into software delivery processes and combining **
 
 ## 📈 GitHub Stats  
 
-![Noor's GitHub stats](https://github-readme-stats.vercel.app/api?username=noormohammad161996-cloud&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noormohammad161996-cloud&layout=compact&theme=radical)
-
----
-
-## 🌱 Let's Connect  
-
-💬 Ask me about **DevOps, Mainframe Modernization, or CI/CD Pipelines**  
-📫 Reach me on [LinkedIn](https://www.linkedin.com/in/noor-mohammad-828669275)
-
----
-
-⭐️ *“Keep learning, keep evolving — every new tool is a step closer to your dream role.”*
+![Noor's GitHub stats](https://github-readme-stats.vercel.app/api?u)
