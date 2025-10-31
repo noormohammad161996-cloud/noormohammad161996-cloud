@@ -13,10 +13,10 @@
 
 I'm a **former Mainframe Developer** with **4.3 years of experience**, currently transitioning into **DevOps Engineering**.  
 
-I enjoy integrating automation into software delivery pipelines and combining **Mainframe expertise** with **modern DevOps tools** to support enterprise cloud modernization.  
+I enjoy automating software delivery pipelines and combining **Mainframe expertise** with modern **DevOps tools** to support enterprise cloud modernization.  
 
 💥 **Currently Learning:** Docker, Kubernetes, Terraform, AWS  
-🎯 **Goal:** To become a skilled **DevOps Engineer** specializing in **Mainframe Modernization & Cloud Integration**
+🎯 **Goal:** Become a skilled **DevOps Engineer** specializing in **Mainframe Modernization & Cloud Integration**
 
 ---
 
@@ -38,14 +38,14 @@ I enjoy integrating automation into software delivery pipelines and combining **
 
 ### 🔹 [nova-app](https://github.com/noormohammad161996-cloud/nova-app)  
 🧱 **Tech Stack:** Node.js (Frontend), Flask (Backend), Docker Compose  
-📦 **Description:** A Dockerized full-stack web app demonstrating frontend-backend networking and multi-container orchestration.  
+📦 A Dockerized full-stack app demonstrating multi-container orchestration.  
 
 ### 🔹 [ares-app](https://github.com/noormohammad161996-cloud/ares-app)  
-🧱 **Tech Stack:** Node.js (Frontend), Flask (Backend), MongoDB, Docker Compose  
-📦 **Description:** A containerized multi-tier app showcasing backend ↔ database ↔ frontend communication using Docker workflow automation.  
+🧱 **Tech Stack:** Node.js, Flask, MongoDB, Docker Compose  
+📦 Multi-tier containerized app with frontend ↔ backend ↔ database networking.
 
 ### 🔹 [resume](https://github.com/noormohammad161996-cloud/resume)  
-📄 **[Download My Resume (Noor_DEV+M_CV.pdf)](https://github.com/noormohammad161996-cloud/resume/blob/main/Noor_DEV%2BM_CV.pdf)**  
+📄 **[Download My Resume](https://github.com/noormohammad161996-cloud/resume/blob/main/Noor_DEV%2BM_CV.pdf)**  
 
 ### 🔹 Other Repositories  
 - [athena](https://github.com/noormohammad161996-cloud/athena)  
@@ -61,17 +61,10 @@ I enjoy integrating automation into software delivery pipelines and combining **
 ### ✅ Top Languages  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=noormohammad161996-cloud&layout=compact&theme=tokyonight)
 
-### ✅ Contribution Streak  
-![GitHub Streak](https://streak-stats.demolab.com/?user=noormohammad161996%2Dcloud&theme=tokyonight)
-
-
-
-
-
+### ✅ Contribution Streak (Guaranteed Working)  
+![GitHub Streak](https://streak-stats.demolab.com/api?user=noormohammad161996-cloud&theme=tokyonight)
 
 ---
 
 ## 🤝 Let's Connect  
-📩 Feel free to reach out for collaboration, DevOps projects, or mentoring!
-
----
+📩 Feel free to reach out for collaboration, DevOps projects, or learning together!  
