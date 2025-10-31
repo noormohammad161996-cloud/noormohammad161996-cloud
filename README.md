@@ -11,12 +11,11 @@
 
 ## 🎯 About Me  
 
-I'm a **former Mainframe Developer** with **4.3 years of experience**, currently transitioning into **DevOps Engineering**.  
-
-I enjoy automating software delivery pipelines and combining **Mainframe expertise** with modern **DevOps tools** to support enterprise cloud modernization.  
+I'm a **former Mainframe Developer** with **4.3 years of experience**, now transitioning into **DevOps Engineering**.  
+I enjoy automating pipelines, containerizing apps, and modernizing enterprise systems using cloud technologies.  
 
 💥 **Currently Learning:** Docker, Kubernetes, Terraform, AWS  
-🎯 **Goal:** Become a skilled **DevOps Engineer** specializing in **Mainframe Modernization & Cloud Integration**
+🎯 **Goal:** Become a professional **DevOps Engineer** specializing in modernization & cloud migration.
 
 ---
 
@@ -37,15 +36,13 @@ I enjoy automating software delivery pipelines and combining **Mainframe experti
 ## 📂 Featured Projects  
 
 ### 🔹 [nova-app](https://github.com/noormohammad161996-cloud/nova-app)  
-🧱 **Tech Stack:** Node.js (Frontend), Flask (Backend), Docker Compose  
-📦 A Dockerized full-stack app demonstrating multi-container orchestration.  
+🧱 Node.js + Flask + Docker Compose — Multi-container orchestration.
 
 ### 🔹 [ares-app](https://github.com/noormohammad161996-cloud/ares-app)  
-🧱 **Tech Stack:** Node.js, Flask, MongoDB, Docker Compose  
-📦 Multi-tier containerized app with frontend ↔ backend ↔ database networking.
+🧱 Node.js + Flask + MongoDB — Full Dockerized environment with networking.
 
 ### 🔹 [resume](https://github.com/noormohammad161996-cloud/resume)  
-📄 **[Download My Resume](https://github.com/noormohammad161996-cloud/resume/blob/main/Noor_DEV%2BM_CV.pdf)**  
+📄 **[Download Resume](https://github.com/noormohammad161996-cloud/resume/blob/main/Noor_DEV%2BM_CV.pdf)**  
 
 ### 🔹 Other Repositories  
 - [athena](https://github.com/noormohammad161996-cloud/athena)  
@@ -56,15 +53,22 @@ I enjoy automating software delivery pipelines and combining **Mainframe experti
 ## 📈 GitHub Stats  
 
 ### ✅ Overall Stats  
-![Noor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=noormohammad161996-cloud&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=noormohammad161996-cloud&show_icons=true&theme=tokyonight)
 
 ### ✅ Top Languages  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=noormohammad161996-cloud&layout=compact&theme=tokyonight)
 
-### ✅ Contribution Streak (Guaranteed Working)  
-![GitHub Streak](https://streak-stats.demolab.com/api?user=noormohammad161996-cloud&theme=tokyonight)
+### ✅ GitHub Contribution Summary (Safe Alternative to Streak)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=noormohammad161996-cloud&theme=tokyo-night)
+
+---
+
+## 🐍 Contribution Snake Graph  
+_(Animated Contribution Snake — always works)_
+
+![Snake Animation](https://github.com/noormohammad161996-cloud/noormohammad161996-cloud/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
 ## 🤝 Let's Connect  
-📩 Feel free to reach out for collaboration, DevOps projects, or learning together!  
+📩 Open for collaboration, DevOps projects, and learning together.
