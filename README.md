@@ -11,8 +11,9 @@
 
 ## 🎯 About Me  
 
-I'm a **former Mainframe Developer** with **4.3 years of experience**, currently **transitioning into DevOps Engineering**.  
-I enjoy integrating automation into software delivery processes and combining **Mainframe expertise** with **modern DevOps tools** to support enterprise modernization.  
+I'm a **former Mainframe Developer** with **4.3 years of experience**, currently transitioning into **DevOps Engineering**.  
+
+I enjoy integrating automation into software delivery pipelines and combining **Mainframe expertise** with **modern DevOps tools** to support enterprise cloud modernization.  
 
 💥 **Currently Learning:** Docker, Kubernetes, Terraform, AWS  
 🎯 **Goal:** To become a skilled **DevOps Engineer** specializing in **Mainframe Modernization & Cloud Integration**
@@ -35,22 +36,37 @@ I enjoy integrating automation into software delivery processes and combining **
 
 ## 📂 Featured Projects  
 
-🔹 [nova-app](https://github.com/noormohammad161996-cloud/nova-app)  
+### 🔹 [nova-app](https://github.com/noormohammad161996-cloud/nova-app)  
 🧱 **Tech Stack:** Node.js (Frontend), Flask (Backend), Docker Compose  
-📦 **Description:** A Dockerized full-stack web app demonstrating frontend-backend networking and container orchestration.  
+📦 **Description:** A Dockerized full-stack web app demonstrating frontend-backend networking and multi-container orchestration.  
 
-🔹 [ares-app](https://github.com/noormohammad161996-cloud/ares-app)  
+### 🔹 [ares-app](https://github.com/noormohammad161996-cloud/ares-app)  
 🧱 **Tech Stack:** Node.js (Frontend), Flask (Backend), MongoDB, Docker Compose  
-📦 **Description:** A containerized app showcasing backend–database–frontend communication and Docker workflow automation.  
+📦 **Description:** A containerized multi-tier app showcasing backend ↔ database ↔ frontend communication using Docker workflow automation.  
 
-🔹 [resume](https://github.com/noormohammad161996-cloud/resume)  
+### 🔹 [resume](https://github.com/noormohammad161996-cloud/resume)  
 📄 **[Download My Resume (Noor_DEV+M_CV.pdf)](https://github.com/noormohammad161996-cloud/resume/blob/main/Noor_DEV%2BM_CV.pdf)**  
 
-🔹 [athena](https://github.com/noormohammad161996-cloud/athena)  
-🔹 [noor](https://github.com/noormohammad161996-cloud/noor)
+### 🔹 Other Repositories  
+- [athena](https://github.com/noormohammad161996-cloud/athena)  
+- [noor](https://github.com/noormohammad161996-cloud/noor)
 
 ---
 
 ## 📈 GitHub Stats  
 
-![Noor's GitHub stats](https://github-readme-stats.vercel.app/api?u)
+### ✅ Overall Stats  
+![Noor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=noormohammad161996-cloud&show_icons=true&theme=tokyonight)
+
+### ✅ Top Languages  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=noormohammad161996-cloud&layout=compact&theme=tokyonight)
+
+### ✅ Contribution Streak  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=noormohammad161996-cloud&theme=tokyonight)
+
+---
+
+## 🤝 Let's Connect  
+📩 Feel free to reach out for collaboration, DevOps projects, or mentoring!
+
+---
