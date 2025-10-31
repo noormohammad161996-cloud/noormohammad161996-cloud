@@ -61,6 +61,9 @@ I enjoy automating software delivery pipelines and combining **Mainframe experti
 ### ✅ Top Languages  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=noormohammad161996-cloud&layout=compact&theme=tokyonight)
 
+### ✅ Contribution Streak  
+![GitHub Streak](https://streak-stats.demolab.com/api?user=noormohammad161996-cloud&theme=tokyonight)
+
 ---
 
 ## 🤝 Let's Connect  
