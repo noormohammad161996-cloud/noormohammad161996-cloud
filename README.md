@@ -37,6 +37,26 @@ I enjoy automating software delivery pipelines and combining **Mainframe experti
 
 ## 📂 Featured Projects  
 ---
+---
+
+## 🚀 Jenkins CI/CD Project
+
+### 🔹 Jenkins DevOps Pipeline
+🧱 **Tech Stack:** Jenkins, Docker, GitHub, Nginx
+
+Implemented a CI/CD pipeline that:
+
+✔ Clones source code from GitHub  
+✔ Builds a Docker image  
+✔ Runs the container automatically  
+✔ Deploys the application
+
+Pipeline Flow:
+
+GitHub → Jenkins → Docker Build → Docker Container → Web App
+
+📦 Repository:  
+https://github.com/noormohammad161996-cloud/jenkins-devops-project
 
 ### 🔹 [nova-app](https://github.com/noormohammad161996-cloud/nova-app)  
 🧱 **Tech Stack:** Node.js (Frontend), Flask (Backend), Docker Compose  
