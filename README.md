@@ -12,7 +12,7 @@
 
 ## 🎯 About Me  
 
-I'm a **former Mainframe Developer** with **4.3 years of experience**, currently transitioning into **DevOps Engineering**.  
+I'm a **former Mainframe Developer** with ** 1 years of experience**, currently transitioning into **DevOps Engineering**.  
 
 I enjoy automating software delivery pipelines and combining **Mainframe expertise** with modern **DevOps tools** to support enterprise cloud modernization.  
 
